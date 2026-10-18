@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# JetBrains Rider
+.idea/
+
+# .NET build artifacts
+**/bin/
+**/obj/
+
+# Test results and coverage
+**/TestResults/
